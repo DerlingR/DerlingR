@@ -1,4 +1,4 @@
-Desarrollador apasionado por la tecnología y la creación de soluciones innovadoras.
+**Desarrollador apasionado por la tecnología y la creación de soluciones innovadoras.**
 
 - 🌱 Actualmente aprendiendo y mejorando mis habilidades en desarrollo
 - 💼 Enfocado en crear proyectos interesantes y útiles
@@ -34,8 +34,6 @@ Desarrollador apasionado por la tecnología y la creación de soluciones innovad
 
 ## 📫 Conecta Conmigo
 
-¿Tienes alguna pregunta o propuesta? ¡No dudes en contactarme!
-
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DerlingR)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/derling__)
 
@@ -45,6 +43,5 @@ Desarrollador apasionado por la tecnología y la creación de soluciones innovad
 
 ![Visitas al Perfil](https://komarev.com/ghpvc/?username=DerlingR&color=blue&style=flat-square)
 
-**Gracias por visitar mi perfil** ⭐
 
 </div>
