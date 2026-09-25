@@ -1,4 +1,4 @@
-**Desarrollador apasionado por la tecnología y la creación de soluciones innovadoras.**
+**Ingeniero en Software apasionado por la tecnología y la creación de soluciones innovadoras.**
 
 - Actualmente aprendiendo y mejorando mis habilidades en desarrollo
 - Enfocado en crear proyectos interesantes y útiles
